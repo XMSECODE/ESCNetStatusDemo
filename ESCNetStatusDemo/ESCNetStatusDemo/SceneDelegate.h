@@ -1,0 +1,15 @@
+//
+//  SceneDelegate.h
+//  ESCNetStatusDemo
+//
+//  Created by xiatian on 2024/1/1.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+
+@property (strong, nonatomic) UIWindow * window;
+
+@end
+
